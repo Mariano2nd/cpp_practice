@@ -1,6 +1,12 @@
 #include <iostream>
 #include <chrono>
 #include <ctime>
+#include <string>
+
+int differTime(std::string timezone){
+
+}
+
 
 int main(){
 
